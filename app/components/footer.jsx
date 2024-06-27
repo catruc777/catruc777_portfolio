@@ -24,7 +24,7 @@ function Footer() {
           <div className="flex items-center gap-5">
             <Link
               target="_blank"
-              href="https://github.com/catrucdev/developer-portfolio"
+              href="https://github.com/catruc777/developer-portfolio"
               className="flex items-center gap-2 uppercase hover:text-[#16f2b3]"
             >
               <IoStar />
@@ -32,7 +32,7 @@ function Footer() {
             </Link>
             <Link
               target="_blank"
-              href="https://github.com/catrucdev/developer-portfolio/fork"
+              href="https://github.com/catruc777/developer-portfolio/fork"
               className="flex items-center gap-2 uppercase hover:text-[#16f2b3]"
             >
               <CgGitFork />
