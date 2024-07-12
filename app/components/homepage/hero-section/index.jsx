@@ -37,13 +37,6 @@ function HeroSection() {
             >
               <BsGithub size={30} />
             </Link>
-            <Link
-              href={personalData.telegram}
-              target="_blank"
-              className="transition-all text-pink-500 hover:scale-125 duration-300"
-            >
-              <BsTelegram size={30} />
-            </Link>
           </div>
 
           <div className="flex items-center gap-3">
